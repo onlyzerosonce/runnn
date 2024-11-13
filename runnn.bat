@@ -1,6 +1,6 @@
 @echo off
 :: Try running "ollama run" to see if Ollama is installed
-ollama run --version >nul 2>&1
+ollama --version >nul 2>&1
 
 :: Check the error code to determine if Ollama is installed
 IF %ERRORLEVEL% NEQ 0 (
