@@ -11,7 +11,7 @@ To get started with Runnn, simply download the `runnn.bat` file and run it. The 
 
 ### Download Runnn
 
-[![Download Runnn.bat](https://img.shields.io/badge/Download-runnn.bat-blue?style=for-the-badge)](https://github.com/onlyzerosonce/runnn/blob/4118a203a085817fc3f83ce8ba5a3e74081debfd/runnn.bat)
+[![Download Runnn.bat](https://img.shields.io/badge/Download-runnn.bat-blue?style=for-the-badge)](https://github.com/onlyzerosonce/runnn/raw/main/runnn.bat)
 
 Click the button above to download the `runnn.bat` file directly. Once downloaded, double-click the file to execute it.
 
